@@ -1,0 +1,13 @@
+/* Na função root é a nossa raiz que vai definir as configurações de acordo com o que vc colocar dentro dela como forma de configuração */
+
+
+:root{
+    /* Fonte */
+    --font-dm-sans: "DM Sans", sans-serif;
+
+    /* Cores */
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0,0,0,0.7);
+    --text-base-light: #fff;
+    --text-sub: #a7a7a7;
+}
