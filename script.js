@@ -3,7 +3,7 @@ const playlistContainer = document.getElementById("result-playlist");
 const searchInput = document.getElementById("search-input");
 
 function requestApi(searchTerm) {
-   const url = `http://localhost:3000/artists${searchTerm}`
+   const url = `http://localhost:3000/artists?name_like=${searchTerm}`
    fetch(url)
     .then((response) => response.json())
     .then((results) => console.log(results));
