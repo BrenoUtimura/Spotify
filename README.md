@@ -9,7 +9,7 @@ Neste caso foi injetado uns poucos dados gerados em um arquivo .json para que a 
 
 # Tecnologias
 
-As tecnologias utilizadas para este projeto foram HTML, CSS e JavaScript para a parte de cosntrução do projeto, mas já para a execução do projeto como teste foi utilizado a ferramenta do json-server, que simula no front-end um funcionamento de uma API.
+As tecnologias utilizadas para este projeto foram <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong> para a parte de cosntrução do projeto, mas já para a execução do projeto como teste foi utilizado a ferramenta do json-server, que simula no front-end um funcionamento de uma API.
 
 Com isso foi utilizado a versão 0.17.4 do json-server para este projeto.
 
