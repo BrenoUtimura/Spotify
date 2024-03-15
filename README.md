@@ -9,4 +9,12 @@ Neste caso foi injetado uns poucos dados gerados em um arquivo .json para que a 
 
 # Tecnologias
 
-As tecnologias utilizadas para este projeto foram HTML, CSS e JavaScript.
+As tecnologias utilizadas para este projeto foram HTML, CSS e JavaScript para a parte de cosntrução do projeto, mas já para a execução do projeto como teste foi utilizado a ferramenta do json-server, que simula no front-end um funcionamento de uma API.
+
+Com isso foi utilizado a versão 0.17.4 do json-server para este projeto.
+
+Para a execução deste projeto, no terminal você terá de colocar o seguinte comando:
+
+            json-server --Watch artists/artists.json --port 3000
+
+Com isso mantenha o terminal em aberto para que ele mantenha a comunicação com a aplicação!
